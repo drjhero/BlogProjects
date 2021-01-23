@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+ext {
+    GUAVA_VERSION = '18.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile(group: 'com.google.guava', name: 'guava', version: rootProject.ext.GUAVA_VERSION)
+}

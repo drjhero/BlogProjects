@@ -1,0 +1,7 @@
+com/everyoneelseisrobots/algorithm/greedynumberpartioning/Main.java
+ com.everyoneelseisrobots.algorithm.greedynumberpartioning.Main
+com/everyoneelseisrobots/algorithm/greedynumberpartioning/ImprovedAlgorithm.java
+ com.everyoneelseisrobots.algorithm.greedynumberpartioning.ImprovedAlgorithm
+ com.everyoneelseisrobots.algorithm.greedynumberpartioning.ImprovedAlgorithm$Partition
+ com.everyoneelseisrobots.algorithm.greedynumberpartioning.ImprovedAlgorithm$PartitionComparator
+ com.everyoneelseisrobots.algorithm.greedynumberpartioning.ImprovedAlgorithm$Partitionable
